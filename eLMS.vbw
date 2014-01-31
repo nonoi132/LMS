@@ -4,3 +4,5 @@ frmLoanRecords = 0, 0, 0, 0, C, 0, 0, 0, 0, C
 frmAddClient = 172, 143, 619, 516, C, 0, 0, 0, 0, C
 frmClientLoan = 172, 143, 619, 516, C, 0, 0, 0, 0, C
 frmReports = 172, 143, 619, 516, C, 0, 0, 0, 0, C
+frmIndex = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmAddGroup = 0, 0, 0, 0, C, 0, 0, 0, 0, C

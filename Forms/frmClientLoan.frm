@@ -3,7 +3,7 @@ Object = "{86CF1D34-0C5F-11D2-A9FC-0000F8754DA1}#2.0#0"; "Mscomct2.ocx"
 Begin VB.Form frmClientLoan 
    Caption         =   "Form1"
    ClientHeight    =   7950
-   ClientLeft      =   2280
+   ClientLeft      =   2175
    ClientTop       =   315
    ClientWidth     =   10125
    LinkTopic       =   "Form1"
@@ -108,7 +108,7 @@ Begin VB.Form frmClientLoan
          Left            =   8040
          Style           =   1  'Graphical
          TabIndex        =   4
-         Top             =   240
+         Top             =   0
          Width           =   1455
       End
       Begin VB.CommandButton Command2 
@@ -127,7 +127,7 @@ Begin VB.Form frmClientLoan
          Left            =   8040
          Style           =   1  'Graphical
          TabIndex        =   3
-         Top             =   960
+         Top             =   600
          Width           =   1455
       End
       Begin VB.CommandButton Command3 
@@ -146,7 +146,7 @@ Begin VB.Form frmClientLoan
          Left            =   8040
          Style           =   1  'Graphical
          TabIndex        =   2
-         Top             =   1680
+         Top             =   1200
          Width           =   1455
       End
       Begin VB.CommandButton Command4 
@@ -165,7 +165,7 @@ Begin VB.Form frmClientLoan
          Left            =   8040
          Style           =   1  'Graphical
          TabIndex        =   1
-         Top             =   2280
+         Top             =   1800
          Width           =   1455
       End
       Begin MSComCtl2.DTPicker DTPicker1 
@@ -186,7 +186,7 @@ Begin VB.Form frmClientLoan
             Italic          =   0   'False
             Strikethrough   =   0   'False
          EndProperty
-         Format          =   16580609
+         Format          =   16646145
          CurrentDate     =   41667
       End
       Begin MSComCtl2.DTPicker DTPicker2 
@@ -207,7 +207,7 @@ Begin VB.Form frmClientLoan
             Italic          =   0   'False
             Strikethrough   =   0   'False
          EndProperty
-         Format          =   16580609
+         Format          =   16646145
          CurrentDate     =   41667
       End
       Begin VB.Label Label12 

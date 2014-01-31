@@ -3,12 +3,12 @@ Object = "{86CF1D34-0C5F-11D2-A9FC-0000F8754DA1}#2.0#0"; "Mscomct2.ocx"
 Begin VB.Form frmAddClient 
    Caption         =   "Form1"
    ClientHeight    =   8310
-   ClientLeft      =   2505
-   ClientTop       =   165
-   ClientWidth     =   9780
+   ClientLeft      =   2430
+   ClientTop       =   285
+   ClientWidth     =   9690
    LinkTopic       =   "Form1"
    ScaleHeight     =   8310
-   ScaleWidth      =   9780
+   ScaleWidth      =   9690
    Begin VB.CommandButton Command4 
       BackColor       =   &H00FFFFFF&
       Caption         =   "Cancel"
@@ -25,7 +25,7 @@ Begin VB.Form frmAddClient
       Left            =   7920
       Style           =   1  'Graphical
       TabIndex        =   4
-      Top             =   3240
+      Top             =   2880
       Width           =   1455
    End
    Begin VB.CommandButton Command3 
@@ -44,7 +44,7 @@ Begin VB.Form frmAddClient
       Left            =   7920
       Style           =   1  'Graphical
       TabIndex        =   3
-      Top             =   2520
+      Top             =   2280
       Width           =   1455
    End
    Begin VB.CommandButton Command2 
@@ -63,7 +63,7 @@ Begin VB.Form frmAddClient
       Left            =   7920
       Style           =   1  'Graphical
       TabIndex        =   2
-      Top             =   1800
+      Top             =   1680
       Width           =   1455
    End
    Begin VB.CommandButton Command5 
